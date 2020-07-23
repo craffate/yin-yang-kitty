@@ -1,5 +1,5 @@
 # Yin-Yang for kitty
-This is a version of the [Yin-Yang colorscheme](https://github.com/pgdouyon/vim-yin-yang) by [pgdouyin](https://github.com/pgdouyon) for the [kitty terminal emulator](https://sw.kovidgoyal.net/kitty/).
+This is a version of the [Yin-Yang colorscheme](https://github.com/pgdouyon/vim-yin-yang) by [pgdouyon](https://github.com/pgdouyon) for the [kitty terminal emulator](https://sw.kovidgoyal.net/kitty/).
 
 ## Installation
 1. Clone the repository.
